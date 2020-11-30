@@ -1,1 +1,2 @@
 Skriver in lite text i den här filen för att se om något ändras.//Anna
+Här kommer en rad till//Anna
