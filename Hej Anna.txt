@@ -5,3 +5,6 @@ Hej hej, här är en ändring!
 
 Ännu en ändring
 >>>>>>> 6c158753b3307e7bee6e6af96569be1b57abf950
+
+
+//// Lägger in ännu mer text nu//Anna
